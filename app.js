@@ -1,4 +1,6 @@
 //Assigment no 02
+
+//chap 9 , 10 , 11
 //console.log("Javascript is Connected!");
 
 //Task No 01
@@ -146,16 +148,73 @@
 
 //Task No 08
 
- var number = +prompt("Enter Number.");
- if(number % 3 === 0){
-     console.log("The number " + number + " is divisible by 3.");
- }
+//  var number = +prompt("Enter Number.");
+//  if(number % 3 === 0){
+//      console.log("The number " + number + " is divisible by 3.");
+//  }
 
  //Task No 09 
  
+//  var number = prompt("Enter number");
+
+//  if( number % 2 === 0){
+//      console.log("The given number is Even number.")
+//  }
+//  else{
+//      console.log("The given number is Odd number.")
+//  } 
+
+
+//Task No 10
+
+// var temperature = prompt ("Enter the temperature in your around");
+
+// if(temperature >= 40){
+//     console.log("It's too Hot Outside");
+    
+// }
+// else if(temperature >= 30 && temperature <= 39){
+//     console.log("The Weather Today is Normal");
+// }
+// else if(temperature >= 20 && temperature <= 29){
+//     console.log("Today's Weather is cool");
+// }
+// else if(temperature < 20 ){
+//     console.log("OMG! Today's Weather is so cool");
+// }
+
+
+//Task No 11
+
  
+    // console.log("Enter Only numbers or correct Operator."); 
+//  }var first_number = prompt("Enter your First number that you Want to Calculate.");
+//  var second_number = prompt("Enter your Second number that you Want to Calculate.");
+//  var operator = prompt("Enter Operators. ( +, -, /, *, %)")
+
+//  if( operator === "+"){
+//      console.log("Addition of " + first_number + " and " + second_number + " is " + (first_number + second_number + "."))
+//  }
+//  else if( operator === "-"){
+//      console.log("Substraction of " + first_number + " and " + second_number + " is " + (first_number - second_number + "."))
+//  }
+//  else if( operator === "/"){
+//      console.log("Division of " + first_number + " and " + second_number + " is " + (first_number / second_number + "."))
+//  }
+// else if( operator === "*"){
+//      console.log("Multiplication of " + first_number + " and " + second_number + " is " + (first_number * second_number + "."))
+//  }
+//  else if( operator === "%"){
+//      console.log("Remainder of " + first_number + " and " + second_number + " is " + (first_number % second_number + "."))
+//  }
+//  else{
+
+
+//chap 12 , 13 
+
+//Task No 01
 
 
 
 
-
+ 
